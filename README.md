@@ -80,6 +80,7 @@ plt.title("Correlation between Tip Amount and Total Bill Amount")
 ### Tips Dataset
 <img width="324" alt="s1" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-09/assets/113674204/2db3fc05-62cb-4eec-8db4-f29baac7183a">
 
+### Missing Values
 <img width="154" alt="s2" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-09/assets/113674204/c6deb567-48ac-4ae7-8408-6226a7118d1e">
 
 ### Data with Outliers
